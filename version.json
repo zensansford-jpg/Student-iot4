@@ -1,0 +1,13 @@
+{
+  "name": "Neural Core — StudentIoT3",
+  "version": "1.0.0",
+  "releasedAt": "2026-11-22",
+  "channel": "stable",
+  "approved": true,
+  "notes": [
+    "Initial Neural Core evolution: real Supabase integration, neural visualization, analytics, and safe software center.",
+    "Removed simulated production readings; preserved StudentIoT3 data contract."
+  ],
+  "source": "https://github.com/zensansford-jpg/Student-iot3",
+  "rollbackVersion": "0.9.0-demo"
+}
